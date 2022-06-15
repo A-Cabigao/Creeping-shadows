@@ -1,0 +1,416 @@
+fileFormatVersion: 2
+guid: 04f7cf1a3c52d404fbbab4b926af6436
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3271880163674185493
+    second: tilesground-outdoor 2_0
+  - first:
+      213: -519627747543696450
+    second: tilesground-outdoor 2_1
+  - first:
+      213: 6016575486479197461
+    second: tilesground-outdoor 2_2
+  - first:
+      213: 8777956839195832323
+    second: tilesground-outdoor 2_3
+  - first:
+      213: 8978778801999684449
+    second: tilesground-outdoor 2_4
+  - first:
+      213: 1767987872406742513
+    second: tilesground-outdoor 2_5
+  - first:
+      213: -1702758737971892572
+    second: tilesground-outdoor 2_6
+  - first:
+      213: -6147006775986347801
+    second: tilesground-outdoor 2_7
+  - first:
+      213: 6741347692897115527
+    second: tilesground-outdoor 2_8
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tilesground-outdoor 2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 43, y: 100}
+        - {x: -25, y: 112}
+        - {x: -43, y: 90}
+        - {x: -115, y: 102}
+        - {x: -109, y: 71}
+        - {x: -113, y: 38}
+        - {x: -103, y: 6}
+        - {x: -112, y: -26}
+        - {x: -99, y: -85}
+        - {x: -107, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 99}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f40fbb0baacc04e939fd61bb7eea87
+      internalID: 3271880163674185493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesground-outdoor 2_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 99, y: 95}
+        - {x: 52, y: 103}
+        - {x: -41, y: 78}
+        - {x: -79, y: 99}
+        - {x: -128, y: 100}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 95}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3111eab38d928184dae1bf626e25345b
+      internalID: -519627747543696450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesground-outdoor 2_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 63, y: 108}
+        - {x: 23, y: 91}
+        - {x: -83, y: 107}
+        - {x: -128, y: 96}
+        - {x: -128, y: -128}
+        - {x: 90, y: -128}
+        - {x: 90, y: -31}
+        - {x: 107, y: 9}
+        - {x: 99, y: 93}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad7eb07255732d244ae4c19abf1dc529
+      internalID: 6016575486479197461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesground-outdoor 2_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -106, y: 128}
+        - {x: -94, y: 89}
+        - {x: -94, y: 16}
+        - {x: -101, y: -17}
+        - {x: -87, y: -98}
+        - {x: -90, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be4c4ed7b524874785dba38c7ce6ac5
+      internalID: 8777956839195832323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesground-outdoor 2_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a096b0285b5024a8dac65ff18a75c7
+      internalID: 8978778801999684449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesground-outdoor 2_5
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 86, y: -128}
+        - {x: 71, y: -73}
+        - {x: 92, y: -33}
+        - {x: 99.27002, y: 55.871857}
+        - {x: 88, y: 128}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a78bbbdfb4018de4dbebad4f64889552
+      internalID: 1767987872406742513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesground-outdoor 2_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -90, y: 128}
+        - {x: -105, y: 82}
+        - {x: -95, y: 26}
+        - {x: -86, y: -95}
+        - {x: -52, y: -84}
+        - {x: -50, y: -56}
+        - {x: 57, y: -81}
+        - {x: 101.981445, y: -88.6025}
+        - {x: 128, y: -81}
+        - {x: 128, y: 128}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 169c74998a3567f4e8c286daa45d9824
+      internalID: -1702758737971892572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesground-outdoor 2_7
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -82}
+        - {x: -21, y: -95}
+        - {x: 39, y: -82}
+        - {x: 91, y: -94}
+        - {x: 128, y: -93}
+        - {x: 128, y: 128}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0354616f49a39384c99a6a1989dbdedb
+      internalID: -6147006775986347801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesground-outdoor 2_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -93}
+        - {x: -103, y: -87}
+        - {x: -21, y: -98}
+        - {x: 25, y: -77}
+        - {x: 87, y: -92}
+        - {x: 100, y: -65}
+        - {x: 89, y: -33}
+        - {x: 102, y: 13}
+        - {x: 85, y: 58}
+        - {x: 101, y: 90}
+        - {x: 87, y: 128}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d38fca2ea15f9f43931dd8bb53ca44f
+      internalID: 6741347692897115527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 8e569dab6dfd82b41aaeb5425410825e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

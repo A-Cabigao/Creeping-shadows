@@ -1,0 +1,555 @@
+fileFormatVersion: 2
+guid: 23873f334c85d2242954cbeb71a0b045
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7378016720621400065
+    second: MogallFloat_0
+  - first:
+      213: 4172721971328204113
+    second: MogallFloat_1
+  - first:
+      213: 5208460874690284956
+    second: MogallFloat_2
+  - first:
+      213: -7970116869489579055
+    second: MogallFloat_3
+  - first:
+      213: -56449561610894739
+    second: MogallFloat_4
+  - first:
+      213: -7101283934540149431
+    second: MogallFloat_5
+  - first:
+      213: -4249028032263215869
+    second: MogallFloat_6
+  - first:
+      213: 1241217845576022681
+    second: MogallFloat_7
+  - first:
+      213: 6103157601893571178
+    second: MogallFloat_8
+  - first:
+      213: -2247046135042356081
+    second: MogallFloat_9
+  - first:
+      213: 9046047194298077273
+    second: MogallFloat_10
+  - first:
+      213: 3893083042667356200
+    second: MogallFloat_11
+  - first:
+      213: -7406481946085736192
+    second: MogallFloat_12
+  - first:
+      213: -996822601182477069
+    second: MogallFloat_13
+  - first:
+      213: 9127248709555692242
+    second: MogallFloat_14
+  - first:
+      213: -8538552377261996795
+    second: MogallFloat_15
+  - first:
+      213: 6755247980922933873
+    second: MogallFloat_16
+  - first:
+      213: -2389057235687464072
+    second: MogallFloat_17
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 256
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MogallFloat_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 431
+        width: 144
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e0752e8bd12814191bd96d6970b563
+      internalID: 7378016720621400065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MogallFloat_1
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 431
+        width: 144
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29430bcbda7e1464ea03b11aed29a089
+      internalID: 4172721971328204113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MogallFloat_2
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 431
+        width: 144
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f2d7ff909179c43bea674c8f601512
+      internalID: 5208460874690284956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MogallFloat_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 350
+        width: 144
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc611ef068d1e449b09df5c0fd7c1a4
+      internalID: -7970116869489579055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MogallFloat_4
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 350
+        width: 144
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d59dd0e94ecd643bec9a71e640eb50
+      internalID: -56449561610894739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MogallFloat_5
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 350
+        width: 144
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0f5db57514e08409f10c40aaa7b0e4
+      internalID: -7101283934540149431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MogallFloat_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 269
+        width: 144
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc1f198fc01f30846a344fd82fed06e0
+      internalID: -4249028032263215869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MogallFloat_7
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 269
+        width: 144
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 804f11b8f2a82ee46a94160501f004f4
+      internalID: 1241217845576022681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MogallFloat_8
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 269
+        width: 144
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d884decc302971b45a01c2e5e1827d25
+      internalID: 6103157601893571178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MogallFloat_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 188
+        width: 144
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79aff797a8bbee84cb6ae930d1ee4e18
+      internalID: -2247046135042356081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MogallFloat_10
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 188
+        width: 144
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 115fa00920a07fd41a040fb69641403e
+      internalID: 9046047194298077273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MogallFloat_11
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 188
+        width: 144
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef960a81dff673a45a1d11b54b05d6f4
+      internalID: 3893083042667356200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MogallFloat_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 107
+        width: 144
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a3b5504af8328c45a1b41a10ad9fdba
+      internalID: -7406481946085736192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MogallFloat_13
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 107
+        width: 144
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2daa765010b724d4dbda74dabf22fd5b
+      internalID: -996822601182477069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MogallFloat_14
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 107
+        width: 144
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66111816250abd341afd2870bd4c897d
+      internalID: 9127248709555692242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MogallFloat_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 26
+        width: 144
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e3e846953feea48b5149483561e4ee
+      internalID: -8538552377261996795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MogallFloat_16
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 26
+        width: 144
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e39d84652bf71449bd55c16c80dcbd
+      internalID: 6755247980922933873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MogallFloat_17
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 26
+        width: 144
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c38d9edefebb94bb745eaaccd7a250
+      internalID: -2389057235687464072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e904be7901373dc48a47093a20a3e917
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

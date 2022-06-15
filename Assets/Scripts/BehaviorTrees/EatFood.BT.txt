@@ -1,0 +1,10 @@
+tree("Root")
+	sequence
+		CheckHunger
+		fallback
+			CheckInventoryForItem("Meat")
+			CheckInventoryForItem("Vegetable")
+			CheckInventoryForItem("Fruit")
+		not
+			IsEnemyNear
+		EatFood

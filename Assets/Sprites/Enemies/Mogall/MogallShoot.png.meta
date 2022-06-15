@@ -1,0 +1,795 @@
+fileFormatVersion: 2
+guid: 8586d07652e351a4893aeebc5a0d432e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6560770818459692000
+    second: MogallShoot_0
+  - first:
+      213: 3067459869998081882
+    second: MogallShoot_1
+  - first:
+      213: 8381417139630874059
+    second: MogallShoot_2
+  - first:
+      213: -1051326409692260647
+    second: MogallShoot_3
+  - first:
+      213: -1298093815297444364
+    second: MogallShoot_4
+  - first:
+      213: 3522386326958871162
+    second: MogallShoot_5
+  - first:
+      213: -5483198266191375794
+    second: MogallShoot_6
+  - first:
+      213: -5094843654878671064
+    second: MogallShoot_7
+  - first:
+      213: -935260472903124786
+    second: MogallShoot_8
+  - first:
+      213: 8408381635045806482
+    second: MogallShoot_9
+  - first:
+      213: -6335327488771585617
+    second: MogallShoot_10
+  - first:
+      213: 385368261481350658
+    second: MogallShoot_11
+  - first:
+      213: 8373172625803530036
+    second: MogallShoot_12
+  - first:
+      213: -4193322837261467138
+    second: MogallShoot_13
+  - first:
+      213: 1240458005521334372
+    second: MogallShoot_14
+  - first:
+      213: -1877768802238718445
+    second: MogallShoot_15
+  - first:
+      213: -1064532039826918266
+    second: MogallShoot_16
+  - first:
+      213: 720285724021433884
+    second: MogallShoot_17
+  - first:
+      213: 7765685302228606805
+    second: MogallShoot_18
+  - first:
+      213: -1547305900365067596
+    second: MogallShoot_19
+  - first:
+      213: 1260703330396263791
+    second: MogallShoot_20
+  - first:
+      213: -8429303804599512728
+    second: MogallShoot_21
+  - first:
+      213: -8416842218492232134
+    second: MogallShoot_22
+  - first:
+      213: 7816943127537108476
+    second: MogallShoot_23
+  - first:
+      213: -4776015805339136787
+    second: MogallShoot_24
+  - first:
+      213: -6429177656970695275
+    second: MogallShoot_25
+  - first:
+      213: 2005669663421921837
+    second: MogallShoot_26
+  - first:
+      213: -5373832070723115064
+    second: MogallShoot_27
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 256
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MogallShoot_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 431
+        width: 144
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08162bef2752b5b4bb58339b692d5ba5
+      internalID: 6560770818459692000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MogallShoot_1
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 431
+        width: 144
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39669459ddac86345b50cc806fc63a46
+      internalID: 3067459869998081882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MogallShoot_2
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 431
+        width: 144
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a490ac70bb5e4047b4618b5b74b3212
+      internalID: 8381417139630874059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MogallShoot_3
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 431
+        width: 144
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d588cc9e8c365941b40ea28c4c3508d
+      internalID: -1051326409692260647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MogallShoot_4
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 431
+        width: 144
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc6ad2d0fbe81ed45acc769bb2693a0e
+      internalID: -1298093815297444364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MogallShoot_5
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 431
+        width: 144
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba17dacac8a78a4f899fdcd766e3eee
+      internalID: 3522386326958871162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MogallShoot_6
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 431
+        width: 144
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43992ef888e0d6d46830fc7daa116ddb
+      internalID: -5483198266191375794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MogallShoot_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 348
+        width: 144
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a34db615cc293cd4fb66c6f69e75183a
+      internalID: -5094843654878671064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MogallShoot_8
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 348
+        width: 144
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ffe04122d16a044883a73e73416e728
+      internalID: -935260472903124786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MogallShoot_9
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 349
+        width: 144
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2820c719ba65c14aacd45d13e30d34e
+      internalID: 8408381635045806482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MogallShoot_10
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 349
+        width: 144
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda251b912831ef4a8fbe12ffbbbff5e
+      internalID: -6335327488771585617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MogallShoot_11
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 349
+        width: 144
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 025cacb731f0358429df0cbd28ebb08e
+      internalID: 385368261481350658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MogallShoot_12
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 349
+        width: 144
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97201af8600215a47a59bdf668fe8d8d
+      internalID: 8373172625803530036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MogallShoot_13
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 349
+        width: 144
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ec04ccdd596684485aa0d73765f334
+      internalID: -4193322837261467138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MogallShoot_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 263
+        width: 144
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44334f8e4373574b9684b8c058c78a9
+      internalID: 1240458005521334372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MogallShoot_15
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 267
+        width: 144
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb868a517f925964a8740552f94006eb
+      internalID: -1877768802238718445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MogallShoot_16
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 267
+        width: 144
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d8e1ce87fea994e92cfd0d2b5ef8b9
+      internalID: -1064532039826918266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MogallShoot_17
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 267
+        width: 144
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b3c9028afdaf14a85094f387b93014
+      internalID: 720285724021433884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MogallShoot_18
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 267
+        width: 144
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c37c2f5388f74c4a816298d997772e7
+      internalID: 7765685302228606805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MogallShoot_19
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 267
+        width: 144
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d3c6fed0167fdb4cbb8150bfb33d69d
+      internalID: -1547305900365067596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MogallShoot_20
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 267
+        width: 144
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ac974fda2ba994bb1ba18cfb13f417
+      internalID: 1260703330396263791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MogallShoot_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 185
+        width: 144
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7313383b691f574bae74370b212bc42
+      internalID: -8429303804599512728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MogallShoot_22
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 185
+        width: 144
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe12339deee29c44897298351ac034e
+      internalID: -8416842218492232134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MogallShoot_23
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 185
+        width: 144
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090820e913a995c47a43c0d02a7d18ba
+      internalID: 7816943127537108476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MogallShoot_24
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 185
+        width: 144
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d2823f0471f78a429c37c201d762417
+      internalID: -4776015805339136787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MogallShoot_25
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 185
+        width: 144
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f181534c8d2e5f348ae5ba61ed892d6b
+      internalID: -6429177656970695275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MogallShoot_26
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 185
+        width: 144
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c435ee45272cbca42be9c9e26bec917b
+      internalID: 2005669663421921837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MogallShoot_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 103
+        width: 144
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f294eb1dba015f54ba715273ffbf7f6b
+      internalID: -5373832070723115064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a3a1324b6e847eb4f8805b054ad330ac
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

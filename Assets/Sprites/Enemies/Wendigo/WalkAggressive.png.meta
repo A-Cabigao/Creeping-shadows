@@ -1,0 +1,579 @@
+fileFormatVersion: 2
+guid: 67cf8dc0e8bc4304d95d790487134ffd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8933255055442164963
+    second: WalkAggressive_0
+  - first:
+      213: -5427617286701074131
+    second: WalkAggressive_1
+  - first:
+      213: -4833607814089584677
+    second: WalkAggressive_2
+  - first:
+      213: -7744311979785865776
+    second: WalkAggressive_3
+  - first:
+      213: 2476240630941855799
+    second: WalkAggressive_4
+  - first:
+      213: 6859694747997633815
+    second: WalkAggressive_5
+  - first:
+      213: 493116648269967934
+    second: WalkAggressive_6
+  - first:
+      213: -2190497740646385945
+    second: WalkAggressive_7
+  - first:
+      213: -603998967369588464
+    second: WalkAggressive_8
+  - first:
+      213: -8317324474081706425
+    second: WalkAggressive_9
+  - first:
+      213: 8402030880537394078
+    second: WalkAggressive_10
+  - first:
+      213: -6589867986053704500
+    second: WalkAggressive_11
+  - first:
+      213: -8983874114573934769
+    second: WalkAggressive_12
+  - first:
+      213: 7677519447012572328
+    second: WalkAggressive_13
+  - first:
+      213: 7146590274591167119
+    second: WalkAggressive_14
+  - first:
+      213: -4277495636797883724
+    second: WalkAggressive_15
+  - first:
+      213: -3038788674687647206
+    second: WalkAggressive_16
+  - first:
+      213: 6084434642654512374
+    second: WalkAggressive_17
+  - first:
+      213: 1627309031806427312
+    second: WalkAggressive_18
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WalkAggressive_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 879
+        width: 222
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14fe622be3b324b4e8863880c5975100
+      internalID: -8933255055442164963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkAggressive_1
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 879
+        width: 222
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f33e8fdae015154abcca2236c73949c
+      internalID: -5427617286701074131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkAggressive_2
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 879
+        width: 222
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8205e043ce41f36458c06d2a73a3ee0e
+      internalID: -4833607814089584677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkAggressive_3
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 879
+        width: 222
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c6e2e1f194834e468db200f87675071
+      internalID: -7744311979785865776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkAggressive_4
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 733
+        width: 222
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8547c0966d77fc4ebd9788786ca63b1
+      internalID: 2476240630941855799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkAggressive_5
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 733
+        width: 222
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61625c8d60274fc4dab8dbf09fa7d4cd
+      internalID: 6859694747997633815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkAggressive_6
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 733
+        width: 222
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361c9636b5833e44fb7cea5550b53c9f
+      internalID: 493116648269967934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkAggressive_7
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 733
+        width: 222
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f06014d10be98045a097f9a6f187b58
+      internalID: -2190497740646385945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkAggressive_8
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 573
+        width: 222
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e45a76eff9570438696e6acaa9b442
+      internalID: -603998967369588464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkAggressive_9
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 572
+        width: 222
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b6d2ea321b3a814581ce9f055f3526b
+      internalID: -8317324474081706425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkAggressive_10
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 571
+        width: 222
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e8601db0af5c2439e83f14912e63be
+      internalID: 8402030880537394078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkAggressive_11
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 569
+        width: 222
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b67a36685367b4c98ead53b75e5bb1
+      internalID: -6589867986053704500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkAggressive_12
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 413
+        width: 222
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f85786719df46134c86879be916e1018
+      internalID: -8983874114573934769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkAggressive_13
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 410
+        width: 222
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60837685ea8831147bb1339720187e3a
+      internalID: 7677519447012572328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkAggressive_14
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 409
+        width: 222
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4edd15487f79d6f4d877bd779324bcff
+      internalID: 7146590274591167119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkAggressive_15
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 415
+        width: 222
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff39511578e273a4e9b7a704e1f1ef6e
+      internalID: -4277495636797883724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkAggressive_16
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 255
+        width: 222
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 655206e8f9597d045ab7a597ec7b5c85
+      internalID: -3038788674687647206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkAggressive_17
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 258
+        width: 222
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d57b1bf87b763ec4ba5fbd49e4b7ab01
+      internalID: 6084434642654512374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkAggressive_18
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 255
+        width: 222
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c36facef78cb731479102798abd9e637
+      internalID: 1627309031806427312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ec17f3ef623134f4cb87738b6294f980
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,579 @@
+fileFormatVersion: 2
+guid: 3f289b5ab24024943ba9953f968b39fb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3677819401844626348
+    second: WalkNormal_0
+  - first:
+      213: -8704541048185307974
+    second: WalkNormal_1
+  - first:
+      213: 8428543220700558260
+    second: WalkNormal_2
+  - first:
+      213: -7574953412695870921
+    second: WalkNormal_3
+  - first:
+      213: 204790146541787692
+    second: WalkNormal_4
+  - first:
+      213: -6997566013955615632
+    second: WalkNormal_5
+  - first:
+      213: -6720900066761463176
+    second: WalkNormal_6
+  - first:
+      213: 5869301468601589981
+    second: WalkNormal_7
+  - first:
+      213: 5469105411677006942
+    second: WalkNormal_8
+  - first:
+      213: -833532690217512484
+    second: WalkNormal_9
+  - first:
+      213: -8438914057092363780
+    second: WalkNormal_10
+  - first:
+      213: -5124046957737290674
+    second: WalkNormal_11
+  - first:
+      213: -384165786717465534
+    second: WalkNormal_12
+  - first:
+      213: 7273087736988717153
+    second: WalkNormal_13
+  - first:
+      213: 5161098677494370728
+    second: WalkNormal_14
+  - first:
+      213: -7637441440010968707
+    second: WalkNormal_15
+  - first:
+      213: -6732845525769033781
+    second: WalkNormal_16
+  - first:
+      213: 7491832921998178744
+    second: WalkNormal_17
+  - first:
+      213: -1823057650115408808
+    second: WalkNormal_18
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WalkNormal_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 879
+        width: 225
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e405f2ada197345468379b080e48411c
+      internalID: 3677819401844626348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkNormal_1
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 879
+        width: 225
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 430feec18921d60428570d64363c8cb4
+      internalID: -8704541048185307974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkNormal_2
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 879
+        width: 225
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2747ec7eef55824ba0f152928e21f05
+      internalID: 8428543220700558260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkNormal_3
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 879
+        width: 225
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c59e826a1b8c145b7401eeb69714e0
+      internalID: -7574953412695870921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkNormal_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 726
+        width: 225
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 192750afd2c8df3409bf550d2b9fc635
+      internalID: 204790146541787692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkNormal_5
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 726
+        width: 225
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f2ab715f2beb4d4cbe850524bd2da6b
+      internalID: -6997566013955615632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkNormal_6
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 726
+        width: 225
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae76e4f700fb9dd4a9400b49346aeb3e
+      internalID: -6720900066761463176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkNormal_7
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 726
+        width: 225
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163718539d733174b957d21db6950f9e
+      internalID: 5869301468601589981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkNormal_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 573
+        width: 225
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc5a5402ea13e0409691198e34a3ce8
+      internalID: 5469105411677006942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkNormal_9
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 573
+        width: 225
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 202a9ad63ae980e4985b8aa24b3537ac
+      internalID: -833532690217512484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkNormal_10
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 573
+        width: 225
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 990c556503c2ef7409d2a91ab5eb64e4
+      internalID: -8438914057092363780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkNormal_11
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 573
+        width: 225
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0defcfb89a264394990ee58dc8ae17b0
+      internalID: -5124046957737290674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkNormal_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 420
+        width: 225
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83210b14ae389f143b9f302c12e09df9
+      internalID: -384165786717465534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkNormal_13
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 420
+        width: 225
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af18bea85d6550b4090640782244d87a
+      internalID: 7273087736988717153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkNormal_14
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 420
+        width: 225
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb7133cc76185149afed43bee032458
+      internalID: 5161098677494370728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkNormal_15
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 420
+        width: 225
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29e294ee5d4152d45a8de7e8af1b53d3
+      internalID: -7637441440010968707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkNormal_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 267
+        width: 225
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff4889e920c63fa44a6b9f6eea10011d
+      internalID: -6732845525769033781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkNormal_17
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 267
+        width: 225
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c04d09334dc66c4bbc42589bd0063a8
+      internalID: 7491832921998178744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkNormal_18
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 267
+        width: 225
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76fad91310e94ad41bca9428b973e8ab
+      internalID: -1823057650115408808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 38940ebe40a72f84abe55d7a045cef01
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

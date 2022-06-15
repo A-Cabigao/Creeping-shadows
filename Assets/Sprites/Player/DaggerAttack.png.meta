@@ -1,0 +1,603 @@
+fileFormatVersion: 2
+guid: 32ef8f3ea46ac974fb155c59554d857f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7857884685541948465
+    second: DaggerAttack_0
+  - first:
+      213: 3001339920107657578
+    second: DaggerAttack_1
+  - first:
+      213: -7730206802507924245
+    second: DaggerAttack_2
+  - first:
+      213: 2286569904063749754
+    second: DaggerAttack_3
+  - first:
+      213: 7611406199235956156
+    second: DaggerAttack_4
+  - first:
+      213: 4930867974146001148
+    second: DaggerAttack_5
+  - first:
+      213: -4741442781467713268
+    second: DaggerAttack_6
+  - first:
+      213: -7972025437042360760
+    second: DaggerAttack_7
+  - first:
+      213: 8339153856585117670
+    second: DaggerAttack_8
+  - first:
+      213: -3654618129313674128
+    second: DaggerAttack_9
+  - first:
+      213: -4559002360358516697
+    second: DaggerAttack_10
+  - first:
+      213: 1315588396364638858
+    second: DaggerAttack_11
+  - first:
+      213: 6241889995557473805
+    second: DaggerAttack_12
+  - first:
+      213: -4182016190401316033
+    second: DaggerAttack_13
+  - first:
+      213: 6750938130063188023
+    second: DaggerAttack_14
+  - first:
+      213: 4318571079069246779
+    second: DaggerAttack_15
+  - first:
+      213: -5932885976805298936
+    second: DaggerAttack_16
+  - first:
+      213: 5142491924794218912
+    second: DaggerAttack_17
+  - first:
+      213: 1679229756854365578
+    second: DaggerAttack_18
+  - first:
+      213: -3405934741180703666
+    second: DaggerAttack_19
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 256
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DaggerAttack_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1756
+        width: 265
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15fa603dab57b584e904089f8ba9e6df
+      internalID: 7857884685541948465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DaggerAttack_1
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1756
+        width: 265
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb916d21ed4c75244b0438393cff9484
+      internalID: 3001339920107657578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DaggerAttack_2
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1756
+        width: 265
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccc5a73c26ce955419e1a23d9a976ee1
+      internalID: -7730206802507924245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DaggerAttack_3
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 1756
+        width: 265
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2feee5d65ef0ce145b19190fc45d30a8
+      internalID: 2286569904063749754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DaggerAttack_4
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 1756
+        width: 265
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0897d593c161649938a8adf0d718b7
+      internalID: 7611406199235956156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DaggerAttack_5
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 1756
+        width: 265
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcdd2f545876a3f42bb08e545e876c96
+      internalID: 4930867974146001148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DaggerAttack_6
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1466
+        width: 265
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8facd961e6ed3e4db2523106837a707
+      internalID: -4741442781467713268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DaggerAttack_7
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1466
+        width: 265
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24ecd4bd51174eb46a4bb45cf5064d6d
+      internalID: -7972025437042360760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DaggerAttack_8
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1466
+        width: 265
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6035bdbc1fbc1bf47b83c4b0616eb00b
+      internalID: 8339153856585117670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DaggerAttack_9
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 1466
+        width: 265
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f1e7da3468d579468aad1bf1344bde0
+      internalID: -3654618129313674128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DaggerAttack_10
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 1466
+        width: 265
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8da81255307aeb4296f06bbedc57c99
+      internalID: -4559002360358516697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DaggerAttack_11
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 1466
+        width: 265
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 866089212a607f04e91c83d39e1771c1
+      internalID: 1315588396364638858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DaggerAttack_12
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1176
+        width: 265
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c8f33306b379a4ca82d52319371c09
+      internalID: 6241889995557473805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DaggerAttack_13
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1176
+        width: 265
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3df600bf3298f14299c723f81e800dd
+      internalID: -4182016190401316033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DaggerAttack_14
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1176
+        width: 265
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 447e77e890bda8f438827b23d48948c2
+      internalID: 6750938130063188023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DaggerAttack_15
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 1176
+        width: 265
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ac1f6ff4746aa45a761c0ca4461c2b
+      internalID: 4318571079069246779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DaggerAttack_16
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 1176
+        width: 265
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c54c7d4ea32df46a245cf1883a100b
+      internalID: -5932885976805298936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DaggerAttack_17
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 1176
+        width: 265
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff162274cb62b3142ad0bdae27cd2b17
+      internalID: 5142491924794218912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DaggerAttack_18
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 886
+        width: 265
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b5f0d6a1971834fb96a90a1c93aa21
+      internalID: 1679229756854365578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DaggerAttack_19
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 886
+        width: 265
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88e1a99d44f09c64ea7299fe1cfb4c3c
+      internalID: -3405934741180703666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b851d521d9e7a9d4eb33887de03615cb
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

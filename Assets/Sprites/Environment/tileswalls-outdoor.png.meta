@@ -1,0 +1,170 @@
+fileFormatVersion: 2
+guid: 94366106f2fee3640909bf67eb247ff5
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites: []
+    outline:
+    - - {x: 112, y: -205}
+      - {x: 98, y: -165}
+      - {x: 5.304291, y: -177.397}
+      - {x: -63, y: -173}
+      - {x: -101, y: -206}
+      - {x: -129, y: -198}
+      - {x: -138, y: -206}
+      - {x: -186, y: -191}
+      - {x: -172, y: -159}
+      - {x: -195, y: -129}
+      - {x: -202, y: -93}
+      - {x: -185, y: -31}
+      - {x: -182, y: 61}
+      - {x: -208, y: 110}
+      - {x: -195, y: 129}
+      - {x: -228, y: 185}
+      - {x: -190, y: 266}
+      - {x: -203, y: 294}
+      - {x: -154, y: 304}
+      - {x: -116, y: 301}
+      - {x: -105, y: 306}
+      - {x: -92, y: 298}
+      - {x: -60.696075, y: 299.768}
+      - {x: -67, y: 290}
+      - {x: -35.59729, y: 292.84448}
+      - {x: -40, y: 309}
+      - {x: -13, y: 300}
+      - {x: 20, y: 305}
+      - {x: 30, y: 314}
+      - {x: 70, y: 287}
+      - {x: 109, y: 302}
+      - {x: 95, y: 321}
+      - {x: 133, y: 300}
+      - {x: 154, y: 305}
+      - {x: 180, y: 296}
+      - {x: 179, y: 238}
+      - {x: 206, y: 199}
+      - {x: 178, y: 143}
+      - {x: 179, y: 69}
+      - {x: 139, y: -46}
+      - {x: 187, y: -76}
+      - {x: 176, y: -132}
+      - {x: 196, y: -171}
+    physicsShape:
+    - - {x: -232, y: -211}
+      - {x: -232, y: 315}
+      - {x: 215, y: 315}
+      - {x: 215, y: -211}
+    bones: []
+    spriteID: 100232711dbfb2340b12224f15d820c5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

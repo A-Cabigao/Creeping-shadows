@@ -1,0 +1,579 @@
+fileFormatVersion: 2
+guid: 85cf8c88ae2f5b1499ca862f39781423
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8644633151622709419
+    second: WendigoAttack_0
+  - first:
+      213: 62649610274775589
+    second: WendigoAttack_1
+  - first:
+      213: -6325204774744270121
+    second: WendigoAttack_2
+  - first:
+      213: -8733739067353058902
+    second: WendigoAttack_3
+  - first:
+      213: -7517711606889251925
+    second: WendigoAttack_4
+  - first:
+      213: 7859884426900915435
+    second: WendigoAttack_5
+  - first:
+      213: -8849976273267738144
+    second: WendigoAttack_6
+  - first:
+      213: 1057994929162978021
+    second: WendigoAttack_7
+  - first:
+      213: 1176709168024687571
+    second: WendigoAttack_8
+  - first:
+      213: 8206373849220429459
+    second: WendigoAttack_9
+  - first:
+      213: 6876437207736139207
+    second: WendigoAttack_10
+  - first:
+      213: 6881870752717232911
+    second: WendigoAttack_11
+  - first:
+      213: 6210936370538100147
+    second: WendigoAttack_12
+  - first:
+      213: 1243194191662355758
+    second: WendigoAttack_13
+  - first:
+      213: -6419613236557968181
+    second: WendigoAttack_14
+  - first:
+      213: 7441783019032023689
+    second: WendigoAttack_15
+  - first:
+      213: 4728599845379088832
+    second: WendigoAttack_16
+  - first:
+      213: -5249597110416436875
+    second: WendigoAttack_17
+  - first:
+      213: -3277085515653043827
+    second: WendigoAttack_18
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WendigoAttack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 878
+        width: 218
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6de43f7051ba584391bc55d027ad5f7
+      internalID: 8644633151622709419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WendigoAttack_1
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 870
+        width: 254
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f267a2ba50dc094781367f52e9ce3b6
+      internalID: 62649610274775589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WendigoAttack_2
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 840
+        width: 231
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceae7422e9c4d074581d87bf7d1b1b32
+      internalID: -6325204774744270121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WendigoAttack_3
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 811
+        width: 202
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b44b93ba2a6d1a847bad29237f396618
+      internalID: -8733739067353058902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WendigoAttack_4
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 853
+        width: 239
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 487ef6580e2e66e4ea388690d8d8de75
+      internalID: -7517711606889251925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WendigoAttack_5
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 863
+        width: 225
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 642bb18e53ec0a046b8a434a0a657df5
+      internalID: 7859884426900915435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WendigoAttack_6
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 654
+        width: 189
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c9a9d25cdaa4b4ebf94f494f296eb3
+      internalID: -8849976273267738144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WendigoAttack_7
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 649
+        width: 191
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f8ebec704627d846afbd144b0f205ef
+      internalID: 1057994929162978021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WendigoAttack_8
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 647
+        width: 211
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33586c47f4443a94790987c601f80c09
+      internalID: 1176709168024687571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WendigoAttack_9
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 638
+        width: 206
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52671fd2b12f5594f89571c55bf7a00d
+      internalID: 8206373849220429459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WendigoAttack_10
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 643
+        width: 212
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d09203b490890b4ab9504b2e3d8b9ec
+      internalID: 6876437207736139207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WendigoAttack_11
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 647
+        width: 210
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd23c12e268fa9498072d050422d0fa
+      internalID: 6881870752717232911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WendigoAttack_12
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 643
+        width: 215
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d85529e517f91f54082a39ee0511c964
+      internalID: 6210936370538100147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WendigoAttack_13
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 437
+        width: 219
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87556fa872dd4704f83b851010974fcb
+      internalID: 1243194191662355758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WendigoAttack_14
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 439
+        width: 218
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5efad1f2b90f29c4caa1857d889140a6
+      internalID: -6419613236557968181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WendigoAttack_15
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 447
+        width: 223
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72cadd103f848c7429d9d0875db9a335
+      internalID: 7441783019032023689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WendigoAttack_16
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 462
+        width: 227
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b074ba132866ec44fb98e9703b905bc8
+      internalID: 4728599845379088832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WendigoAttack_17
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 466
+        width: 226
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9d929718b0b0245bae13942885a979
+      internalID: -5249597110416436875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WendigoAttack_18
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 879
+        width: 242
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04c24cbba565dd34ab9c0d34813759e1
+      internalID: -3277085515653043827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 7fc689d8be5496c47a5c5880d57c4b51
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
